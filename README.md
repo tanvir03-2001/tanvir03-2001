@@ -2,13 +2,13 @@
 <h3 align="center">💻 Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  I build end-to-end web applications UI, APIs, and databases with performance and clean UX in mind.
+  I build end-to-end web applications — UI, APIs, and databases — with performance and clean UX in mind.
 </p>
 
 <p align="center">
   <a href="https://tanvir-ahmed-dev.vercel.app/" target="_blank"><strong>Portfolio</strong></a> ·
   <a href="mailto:tanvr03.2001@gmail.com"><strong>Email</strong></a> ·
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/tanvirahmed-dev" target="_blank"><strong>LinkedIn</strong></a>
 </p>
 
 ---
@@ -127,15 +127,13 @@
 
 ### 📊 GitHub Stats
 
-> Replace `tanvir03-2001` below with your actual GitHub username.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvir03-2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir03-2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir03-2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -149,13 +147,13 @@
   <a href="https://tanvir-ahmed-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/tanvirahmed-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/tanvir03-2001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK" target="_blank">
+  <a href="https://www.facebook.com/tanvir03.2001" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
@@ -163,7 +161,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tanvir03-2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
