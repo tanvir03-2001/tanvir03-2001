@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  I build end-to-end web applications — UI, APIs, and databases — with performance and clean UX in mind.
+  I build end-to-end web applications UI, APIs, and databases with performance and clean UX in mind.
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@
 
 ### 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username.
+> Replace `tanvir03-2001` below with your actual GitHub username.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
